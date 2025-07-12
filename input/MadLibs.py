@@ -1,0 +1,10 @@
+colour = input("Enter a colour: ")
+animal = input("Enter an animal: ") 
+plural_noun = input("Enter a plural noun: ")
+name = input("Enter a name: ")
+
+print("Roses are", colour)
+print(animal, "are blue")
+print(plural_noun, "are yellow")
+print("I love", name)
+print("This is a fun Mad Libs game!")

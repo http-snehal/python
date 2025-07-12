@@ -1,0 +1,10 @@
+phrase = "snehal kushwah"
+print(phrase.upper())
+print(phrase.lower())
+print(len(phrase))
+print(phrase.isupper())
+print(phrase.islower())
+print(phrase[0])  
+print(phrase[0:6])  
+print(phrase.index("kushwah"))
+print(phrase.replace("snehal", "raj"))
