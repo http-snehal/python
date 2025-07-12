@@ -1,0 +1,18 @@
+friends = ["snehal", "raj", "rishabh", "krishna", 'prince']
+lucky_number = [1, 2, 3, 4, 5]
+friends.append("navi")
+print(friends)
+friends.insert(1, "snehal kushwah")
+print(friends)
+friends.remove("raj")
+print(friends)
+friends.pop()
+print(friends)
+friends.index("rishabh")
+print(friends)
+print(friends.count("snehal"))
+print(friends)
+friends.reverse()
+print(friends)
+friends2 = friends.copy()
+print(friends2)
